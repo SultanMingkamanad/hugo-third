@@ -25,4 +25,4 @@ params:
   #   - js/main.js # relative path to "assets" directory
   dateFormat: "2006-01-02"
   paginationSinglePost: true
-  style: light-without-switcher
+  style: dark
