@@ -3,3 +3,10 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'anubis'
 
+menu:
+  main:
+  - identifier: archive
+    name: Archive
+    title: Archive
+    url: /posts/
+    weight: 0
